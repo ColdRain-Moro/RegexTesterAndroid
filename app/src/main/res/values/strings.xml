@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RegexTester</string>
+    <string name="button">匹配!</string>
+    <string name="result">匹配结果</string>
+    <string name="text">在此输入需要匹配的文字</string>
+    <string name="regex">在此输入正则表达式</string>
+</resources>
